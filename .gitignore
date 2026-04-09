@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+newenv/
+
+# Tensorflow libraries
+*.so
+
+# Dataset files
+images/
+images.zip
+
+# Large model files
+*.h5
+model.zip
+
+# OS files
+.DS_Store
+Thumbs.db
